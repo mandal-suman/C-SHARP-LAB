@@ -11,6 +11,7 @@ This repository contains the laboratory practical assignments for **C# .NET (BCA
 | :--- | :--- |
 | **Name** | Suman Mandal |
 | **Semester** | 4th Sem (BCA) |
+| **Enrollment No.** | 92400527001 |
 | **University** | Marwadi University |
 
 ## 📂 Practical List
@@ -19,9 +20,9 @@ This repository contains the laboratory practical assignments for **C# .NET (BCA
 | :--- | :--- | :---: | :---: |
 | **U2P1** | Write a program to print "Hello world". | ✅ Completed | [Link](./U2P1) |
 | **U2P2** | Input 2 numbers and an arithmetic operator to display the result. | ✅ Completed | [Link](./U2P2) |
-| **U2P3** | Generate the Fibonacci series up to n terms. | ✅ Completed | [Link](./U2P3) |
-| **U2P4** | Accept 5 numbers in an array to find sum and average. | ✅ Completed | [Link](./U2P4) |
-| **U2P5** | Check if a string is a palindrome. | ✅ Completed | [Link](./U2P5) |
+| **U2P3** | Write a program to input principal amount, rate and year and display the simple interest. | ✅ Completed | [Link](./U2P3) |
+| **U2P4** | Write a program to input principal amount, rate and year and display the compound interest. | ✅ Completed | [Link](./U2P4) |
+| **U2P5** | Write a program to input radius of a circle, and print area of that circle. | ✅ Completed | [Link](./U2P5) |
 
 ## 🚀 How to Run
 

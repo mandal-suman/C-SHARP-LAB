@@ -1,7 +1,7 @@
-﻿// Date: 19-01-2026
-/*
+﻿/*
     Definition 5
-    Write a program to check if a string is a palindrome.
+    Write a program to input radius of a circle, and print area of 
+    that circle.
 */
 
 using System;
@@ -12,26 +12,10 @@ namespace U2P5
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter a string: ");
-            string input = Console.ReadLine();
-            
-            // Remove spaces and convert to lowercase for accurate comparison
-            string cleanInput = input.Replace(" ", "").ToLower();
-            string reversed = "";
-
-            for (int i = cleanInput.Length - 1; i >= 0; i--)
-            {
-                reversed += cleanInput[i];
-            }
-
-            if (cleanInput == reversed)
-            {
-                Console.WriteLine($"\"{input}\" is a Palindrome.");
-            }
-            else
-            {
-                Console.WriteLine($"\"{input}\" is NOT a Palindrome.");
-            }
+            Console.Write("Enter radius of the circle: ");
+            double radius = double.Parse(Console.ReadLine());
+            double area = Math.PI * Math.Pow(radius, 2);
+            Console.WriteLine("Area of the circle: " + area);
         }
     }
 }

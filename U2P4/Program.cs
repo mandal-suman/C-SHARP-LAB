@@ -1,7 +1,7 @@
-﻿// Date: 19-01-2026
+﻿// Date: 20-01-2026
 /*
     Definition 4
-    Write a program to accept 5 numbers in an array and display their sum and average.
+    Write a program to input principal amount, rate and year and display the compound interest.
 */
 
 using System;
@@ -12,21 +12,15 @@ namespace U2P4
     {
         static void Main(string[] args)
         {
-            int[] numbers = new int[5];
-            int sum = 0;
-
-            Console.WriteLine("Enter 5 numbers:");
-            for (int i = 0; i < 5; i++)
-            {
-                Console.Write($"Number {i + 1}: ");
-                numbers[i] = int.Parse(Console.ReadLine());
-                sum += numbers[i];
-            }
-
-            double average = (double)sum / numbers.Length;
-
-            Console.WriteLine($"\nSum: {sum}");
-            Console.WriteLine($"Average: {average}");
+            Console.Write("Enter principal amount: ");
+            double principal = double.Parse(Console.ReadLine());
+            Console.Write("Enter rate of interest (in %): ");
+            double rate = double.Parse(Console.ReadLine());
+            Console.Write("Enter time period (in years): ");
+            double time = double.Parse(Console.ReadLine());
+            
+            double compoundInterest = principal * Math.Pow((1 + rate / 100), time) - principal;
+            Console.WriteLine("Compound Interest: "+compoundInterest);
         }
     }
 }
