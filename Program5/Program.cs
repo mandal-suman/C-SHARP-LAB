@@ -1,21 +1,15 @@
-﻿/*
-    Definition 5
-    Write a program to input radius of a circle, and print area of 
-    that circle.
-*/
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-using System;
-
-namespace U2P5
+namespace Program5
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter radius of the circle: ");
-            double radius = double.Parse(Console.ReadLine());
-            double area = Math.PI * Math.Pow(radius, 2);
-            Console.WriteLine("Area of the circle: " + area);
         }
     }
 }

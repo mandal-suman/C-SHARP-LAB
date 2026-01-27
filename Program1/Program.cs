@@ -1,18 +1,15 @@
-﻿// Date: 19-01-2026
-/*
-    Definittion 1
-    Write a program to print “Hello world” 
-*/
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-using System;
-
-namespace U2P1
+namespace Program1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
