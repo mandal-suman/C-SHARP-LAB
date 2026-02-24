@@ -58,29 +58,29 @@ C-SHARP-LAB/
 
 | Program | Problem Definition | Status | Directory |
 | :--- | :--- | :---: | :---: |
-| **Program 01** | Write a program to print `"Hello World"`. | ✅ Done | [View](./UNIT2/Program01) |
-| **Program 02** | Write a program to input 2 numbers and perform all arithmetic operations (+, −, ×, ÷) and display the results. | ✅ Done | [View](./UNIT2/Program02) |
+| **Program 01** | Write a program to print `"Hello World"`. | ✅ Done | [View](./UNIT2/Program01/Program.cs) |
+| **Program 02** | Write a program to input 2 numbers and perform all arithmetic operations (+, −, ×, ÷) and display the results. | ✅ Done | [View](./UNIT2/Program02/Program.cs) |
 
 ### 🔷 Unit 3 — Control Statements, Loops & Arrays
 
 | Program | Problem Definition | Status | Directory |
 | :--- | :--- | :---: | :---: |
-| **Program 03** | Write a program to input principal amount, rate of interest and time period; display the **Simple Interest**. | ✅ Done | [View](./UNIT3/Program03) |
-| **Program 04** | Write a program to input principal amount, rate of interest and time period; display the **Compound Interest**. | ✅ Done | [View](./UNIT3/Program04) |
-| **Program 05** | Write a program to input radius of a circle and display its **Area**. | ✅ Done | [View](./UNIT3/Program05) |
-| **Program 06** | Write a program to check whether a number is **Even or Odd**. | ✅ Done | [View](./UNIT3/Program06) |
-| **Program 07** | Write a program to input a person's age and display the category: Kid (< 12), Teenager (12–17), Adult (18–60), Senior Citizen (> 60). | ✅ Done | [View](./UNIT3/Program07) |
-| **Program 08** | Write a program to find the **Factorial** of a given number. | ✅ Done | [View](./UNIT3/Program08) |
-| **Program 09** | Write a program to display the **Fibonacci Series** up to a limit entered by the user *(using `while` loop)*. | ✅ Done | [View](./UNIT3/Program09) |
-| **Program 10** | Write a program to display the **Fibonacci Series** up to a limit entered by the user *(alternate approach)*. | ✅ Done | [View](./UNIT3/Program10) |
-| **Program 11** | Write a program to find all **Prime Numbers** between two values entered by the user. | ✅ Done | [View](./UNIT3/Program11) |
-| **Program 12** | Write a program to calculate the **Sum of Digits** of a number *(e.g., 1234 → 10)*. | ✅ Done | [View](./UNIT3/Program12) |
-| **Program 13** | Write a program to find the **Minimum of Three Numbers** using the conditional (ternary) operator. | ✅ Done | [View](./UNIT3/Program13) |
-| **Program 14** | Write a program to check whether a **Number is Palindrome** or not *(e.g., 121 → Palindrome; 124 → Not Palindrome)*. | ✅ Done | [View](./UNIT3/Program14) |
-| **Program 15** | Write a program to check whether a **String is Palindrome** or not *(e.g., "nayan" → Palindrome; "virat" → Not Palindrome)*. | ✅ Done | [View](./UNIT3/Program15) |
-| **Program 16** | Write a program to check whether a number is an **Armstrong Number** or not *(e.g., 153 → Armstrong; 100 → Not Armstrong)*. | ✅ Done | [View](./UNIT3/Program16) |
-| **Program 18** | Write a program to display the **Maximum Number** from 5 numbers entered by the user using arrays. | ✅ Done | [View](./UNIT3/Program18) |
-| **Program 19** | Write a program to display the **Minimum Number** from 5 numbers entered by the user using arrays. | ✅ Done | [View](./UNIT3/Program19) |
+| **Program 03** | Write a program to input principal amount, rate of interest and time period; display the **Simple Interest**. | ✅ Done | [View](./UNIT3/Program03/Program.cs) |
+| **Program 04** | Write a program to input principal amount, rate of interest and time period; display the **Compound Interest**. | ✅ Done | [View](./UNIT3/Program04/Program.cs) |
+| **Program 05** | Write a program to input radius of a circle and display its **Area**. | ✅ Done | [View](./UNIT3/Program05/Program.cs) |
+| **Program 06** | Write a program to check whether a number is **Even or Odd**. | ✅ Done | [View](./UNIT3/Program06/Program.cs) |
+| **Program 07** | Write a program to input a person's age and display the category: Kid (< 12), Teenager (12–17), Adult (18–60), Senior Citizen (> 60). | ✅ Done | [View](./UNIT3/Program07/Program.cs) |
+| **Program 08** | Write a program to find the **Factorial** of a given number. | ✅ Done | [View](./UNIT3/Program08/Program.cs) |
+| **Program 09** | Write a program to display the **Fibonacci Series** up to a limit entered by the user *(using `while` loop)*. | ✅ Done | [View](./UNIT3/Program09/Program.cs) |
+| **Program 10** | Write a program to display the **Fibonacci Series** up to a limit entered by the user *(alternate approach)*. | ✅ Done | [View](./UNIT3/Program10/Program.cs) |
+| **Program 11** | Write a program to find all **Prime Numbers** between two values entered by the user. | ✅ Done | [View](./UNIT3/Program11/Program.cs) |
+| **Program 12** | Write a program to calculate the **Sum of Digits** of a number *(e.g., 1234 → 10)*. | ✅ Done | [View](./UNIT3/Program12/Program.cs) |
+| **Program 13** | Write a program to find the **Minimum of Three Numbers** using the conditional (ternary) operator. | ✅ Done | [View](./UNIT3/Program13/Program.cs) |
+| **Program 14** | Write a program to check whether a **Number is Palindrome** or not *(e.g., 121 → Palindrome; 124 → Not Palindrome)*. | ✅ Done | [View](./UNIT3/Program14/Program.cs) |
+| **Program 15** | Write a program to check whether a **String is Palindrome** or not *(e.g., "nayan" → Palindrome; "virat" → Not Palindrome)*. | ✅ Done | [View](./UNIT3/Program15/Program.cs) |
+| **Program 16** | Write a program to check whether a number is an **Armstrong Number** or not *(e.g., 153 → Armstrong; 100 → Not Armstrong)*. | ✅ Done | [View](./UNIT3/Program16/Program.cs) |
+| **Program 18** | Write a program to display the **Maximum Number** from 5 numbers entered by the user using arrays. | ✅ Done | [View](./UNIT3/Program18/Program.cs) |
+| **Program 19** | Write a program to display the **Minimum Number** from 5 numbers entered by the user using arrays. | ✅ Done | [View](./UNIT3/Program19/Program.cs) |
 
 ---
 
