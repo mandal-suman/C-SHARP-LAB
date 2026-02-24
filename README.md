@@ -56,14 +56,14 @@ C-SHARP-LAB/
 
 ### 🔷 Unit 2 — Introduction to C# & .NET
 
-| Program | Problem Definition | Status | Directory |
+| Program | Problem Definition | Status | CS File |
 | :--- | :--- | :---: | :---: |
 | **Program 01** | Write a program to print `"Hello World"`. | ✅ Done | [View](./UNIT2/Program01/Program.cs) |
 | **Program 02** | Write a program to input 2 numbers and perform all arithmetic operations (+, −, ×, ÷) and display the results. | ✅ Done | [View](./UNIT2/Program02/Program.cs) |
 
 ### 🔷 Unit 3 — Control Statements, Loops & Arrays
 
-| Program | Problem Definition | Status | Directory |
+| Program | Problem Definition | Status | CS File |
 | :--- | :--- | :---: | :---: |
 | **Program 03** | Write a program to input principal amount, rate of interest and time period; display the **Simple Interest**. | ✅ Done | [View](./UNIT3/Program03/Program.cs) |
 | **Program 04** | Write a program to input principal amount, rate of interest and time period; display the **Compound Interest**. | ✅ Done | [View](./UNIT3/Program04/Program.cs) |
