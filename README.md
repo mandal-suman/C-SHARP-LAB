@@ -1,4 +1,4 @@
-# C# .NET Lab Practicals
+# C# Lab Practicals
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -98,8 +98,10 @@ dotnet run
 
 ### 💻 Option 2 — Local Machine
 
-**Prerequisites:** [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
-
+**Prerequisites:** 
+- [.NET 10.0 SDK Download Page](https://dotnet.microsoft.com/en-us/download)
+- [.NET 10.0 SDK Download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-10.0.103-windows-x64-installer)
+  
 ```bash
 # Clone the repository
 git clone https://github.com/mandal-suman/C-SHARP-LAB.git
