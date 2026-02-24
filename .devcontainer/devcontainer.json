@@ -1,5 +1,5 @@
 {
-  "name": "C# .NET Lab",
+  "name": "C# Lab",
   "image": "mcr.microsoft.com/devcontainers/dotnet:1-8.0",
   "customizations": {
     "vscode": {
@@ -13,7 +13,7 @@
       }
     }
   },
-  "postCreateCommand": "echo 'C# .NET Lab Codespace ready! Use: cd UNIT2/Program01 && dotnet run'",
+  "postCreateCommand": "echo 'C# Lab Codespace ready! Use: cd UNIT2/Program01 && dotnet run'",
   "features": {
     "ghcr.io/devcontainers/features/dotnet:2": {
       "version": "8.0"
