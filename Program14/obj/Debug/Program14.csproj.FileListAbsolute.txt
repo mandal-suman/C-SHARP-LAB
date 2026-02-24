@@ -1,7 +1,0 @@
-H:\My Drive\MU\BCA_4A\LAB_PRACTICALS\C# .NET\CSHARP_LAB_PROJECTS\Program14\bin\Debug\Program14.exe.config
-H:\My Drive\MU\BCA_4A\LAB_PRACTICALS\C# .NET\CSHARP_LAB_PROJECTS\Program14\bin\Debug\Program14.exe
-H:\My Drive\MU\BCA_4A\LAB_PRACTICALS\C# .NET\CSHARP_LAB_PROJECTS\Program14\bin\Debug\Program14.pdb
-H:\My Drive\MU\BCA_4A\LAB_PRACTICALS\C# .NET\CSHARP_LAB_PROJECTS\Program14\obj\Debug\Program14.csproj.AssemblyReference.cache
-H:\My Drive\MU\BCA_4A\LAB_PRACTICALS\C# .NET\CSHARP_LAB_PROJECTS\Program14\obj\Debug\Program14.csproj.CoreCompileInputs.cache
-H:\My Drive\MU\BCA_4A\LAB_PRACTICALS\C# .NET\CSHARP_LAB_PROJECTS\Program14\obj\Debug\Program14.exe
-H:\My Drive\MU\BCA_4A\LAB_PRACTICALS\C# .NET\CSHARP_LAB_PROJECTS\Program14\obj\Debug\Program14.pdb

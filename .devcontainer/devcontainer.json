@@ -1,0 +1,22 @@
+{
+  "name": "C# .NET Lab",
+  "image": "mcr.microsoft.com/devcontainers/dotnet:1-8.0",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-dotnettools.csharp",
+        "ms-dotnettools.csdevkit",
+        "ms-dotnettools.vscode-dotnet-runtime"
+      ],
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  },
+  "postCreateCommand": "echo 'C# .NET Lab Codespace ready! Use: cd UNIT2/Program01 && dotnet run'",
+  "features": {
+    "ghcr.io/devcontainers/features/dotnet:2": {
+      "version": "8.0"
+    }
+  }
+}
