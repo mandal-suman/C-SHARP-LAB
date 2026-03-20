@@ -1,0 +1,44 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/UNIT01/">
+    <Project Path="src/UNIT01/Program01/Program01.csproj" />
+    <Project Path="src/UNIT01/Program02/Program02.csproj" />
+    <Project Path="src/UNIT01/Program03/Program03.csproj" />
+  </Folder>
+  <Folder Name="/src/UNIT02/">
+    <Project Path="src/UNIT02/Program01/Program01.csproj" />
+    <Project Path="src/UNIT02/Program02/Program02.csproj" />
+  </Folder>
+  <Folder Name="/src/UNIT03/">
+    <Project Path="src/UNIT03/Program01/Program01.csproj" />
+    <Project Path="src/UNIT03/Program02/Program02.csproj" />
+    <Project Path="src/UNIT03/Program03/Program03.csproj" />
+    <Project Path="src/UNIT03/Program04/Program04.csproj" />
+    <Project Path="src/UNIT03/Program05/Program05.csproj" />
+    <Project Path="src/UNIT03/Program06/Program06.csproj" />
+    <Project Path="src/UNIT03/Program07/Program07.csproj" />
+    <Project Path="src/UNIT03/Program08/Program08.csproj" />
+    <Project Path="src/UNIT03/Program09/Program09.csproj" />
+    <Project Path="src/UNIT03/Program10/Program10.csproj" />
+    <Project Path="src/UNIT03/Program11/Program11.csproj" />
+    <Project Path="src/UNIT03/Program12/Program12.csproj" />
+    <Project Path="src/UNIT03/Program13/Program13.csproj" />
+    <Project Path="src/UNIT03/Program14/Program14.csproj" />
+    <Project Path="src/UNIT03/Program15/Program15.csproj" />
+    <Project Path="src/UNIT03/Program16/Program16.csproj" />
+  </Folder>
+  <Folder Name="/src/UNIT04/">
+    <Project Path="src/UNIT04/Program01/Program01.csproj" />
+    <Project Path="src/UNIT04/Program02/Program02.csproj" />
+    <Project Path="src/UNIT04/Program03/Program03.csproj" />
+    <Project Path="src/UNIT04/Program04/Program04.csproj" />
+  </Folder>
+  <Folder Name="/src/UNIT05/">
+    <Project Path="src/UNIT05/Program01/Program01.csproj" />
+    <Project Path="src/UNIT05/Program02/Program02.csproj" />
+    <Project Path="src/UNIT05/Program03/Program03.csproj" />
+    <Project Path="src/UNIT05/Program04/Program04.csproj" />
+    <Project Path="src/UNIT05/Program05/Program05.csproj" />
+    <Project Path="src/UNIT05/Program06/Program06.csproj" />
+  </Folder>
+</Solution>
