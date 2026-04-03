@@ -111,7 +111,7 @@ dotnet run --project src/UNIT03/Program01
 | **01** | Implement Rectangle class with overloads | [View Code](./src/UNIT04/Program01/Program.cs) | ✅ Completed |
 | **02** | Implement Vehicle inheritance hierarchy | [View Code](./src/UNIT04/Program02/Program.cs) | ✅ Completed |
 | **03** | Build abstract Account banking system | [View Code](./src/UNIT04/Program03/Program.cs) | ✅ Completed |
-| **04** | Implement Exam and Classify interfaces | [View Code](./src/UNIT04/Program04/Program.cs) | 🚧 In Progress |
+| **04** | Implement Exam and Classify interfaces | [View Code](./src/UNIT04/Program04/Program.cs) | ✅ Completed |
 
 </details>
 
